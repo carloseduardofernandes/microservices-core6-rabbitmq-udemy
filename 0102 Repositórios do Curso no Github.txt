@@ -1,0 +1,3 @@
+Todos os exercícios e projetos estão em ... 
+
+Microsserviços --> https://github.com/leandrocgsi/erudio-microservices-dotnet6
