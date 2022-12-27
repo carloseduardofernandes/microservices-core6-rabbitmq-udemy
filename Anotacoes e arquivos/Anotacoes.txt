@@ -1,0 +1,10 @@
+Curso: Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#
+
+-Criar solução projeto via cmd:
+dotnet new sln -o RestWithASPNETUdemy
+
+-Criar projeto do tipo Api:
+dotnet new webapi -o RestWithASPNETUdemy
+
+-Add projeto a solução:
+dotnet sln add .\RestWithASPNETUdemy\RestWithASPNETUdemy.csproj
